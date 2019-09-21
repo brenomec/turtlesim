@@ -1,0 +1,2 @@
+turtlesim_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/breno/turtle_ws/devel -DCMAKE_INSTALL_PREFIX=/home/breno/turtle_ws/install -G Unix Makefiles
